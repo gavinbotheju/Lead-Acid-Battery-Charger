@@ -9,7 +9,8 @@ Every battery type has its specific charging profile, crucial for maintaining op
 
 <br/><br/>
 
-<img src="https://github.com/gavinbotheju/lead-acid-battery-charger/assets/140232759/8bf381d9-3b6b-44ed-b71d-382d94bba58d" width="350" />
+<img src="https://github.com/gavinbotheju/lead-acid-battery-charger/assets/140232759/8bf381d9-3b6b-44ed-b71d-382d94bba58d" height="200" />
+<img src="https://github.com/gavinbotheju/lead-acid-battery-charger/assets/140232759/93a2897f-560f-4f56-ac8d-41c2498e5457" height="200" />
 
 ### Functionality
 
